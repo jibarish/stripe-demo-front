@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StripeDemo/Tools.swift"
+            timestampString = "508208028.927796"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "createNewStripeCustomerFromCardInfo(nameTextField:emailTextField:numberTextField:expirationTextField:cvvTextField:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StripeDemo.(createNewStripeCustomerFromCardInfo (nameTextField : __ObjC.UITextField, emailTextField : __ObjC.UITextField, numberTextField : __ObjC.UITextField, expirationTextField : __ObjC.UITextField, cvvTextField : __ObjC.UITextField) -&gt; Swift.String).(closure #1)"
+                  moduleName = "StripeDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/whirlpool/Dev/StripeDemo/StripeDemo/StripeDemo/Tools.swift"
+                  timestampString = "508208157.103107"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StripeDemo.(createNewStripeCustomerFromCardInfo (nameTextField : __ObjC.UITextField, emailTextField : __ObjC.UITextField, numberTextField : __ObjC.UITextField, expirationTextField : __ObjC.UITextField, cvvTextField : __ObjC.UITextField) -&gt; Swift.String).(closure #1).(closure #1)"
+                  moduleName = "StripeDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/whirlpool/Dev/StripeDemo/StripeDemo/StripeDemo/Tools.swift"
+                  timestampString = "508208157.107392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
